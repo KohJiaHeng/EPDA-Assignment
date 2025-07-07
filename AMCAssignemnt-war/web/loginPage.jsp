@@ -17,7 +17,7 @@
         <form action="Login" method="POST">
             <table>
                 <tr>
-                    <td>Usernamde: </td>
+                    <td>Username: </td>
                     <td><input type="text" name="username" size="20"></td>
                 </tr>
                 <tr>
